@@ -1,5 +1,8 @@
 ## Client for Deutsche Post Portokasse
 
+This package adds the missing functionality from Deutsche Post SOAP API to also load the Portokasse and to list the
+transactions.
+
 ## Installation
 
 The package is available via Composer. To install the latest version from Packagist, run:
@@ -7,6 +10,10 @@ The package is available via Composer. To install the latest version from Packag
 ```
 composer require xtain/deutschepost-portokasse
 ```
+
+## Related packages
+
+To generate stamps use the [baltpeter/internetmarke-php](https://github.com/baltpeter/internetmarke-php) package.
 
 ## Example
 
