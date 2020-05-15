@@ -1,5 +1,5 @@
 {
-    "name": "xtain/deutschepost-portokasse",,
+    "name": "xtain/deutschepost-portokasse",
     "license": "MIT",
     "require": {
         "guzzlehttp/guzzle": "~6.0"
